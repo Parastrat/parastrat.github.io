@@ -1,0 +1,133 @@
+body {
+    text-align: center;
+    background: url("./images/Blue_Gradient_Background.png") no-repeat fixed;
+    background-size: 100% 100%;
+    background-position: center;
+    color: black;
+    font-family: Arial;
+  }
+
+p {
+    font-size: 18px;
+    text-align: justify;
+  }
+  
+
+#MOV_Box {
+    border: 2px black solid;
+    margin-left: 7%;
+    font-size: 18px;
+    text-align: left;
+    padding: 1em;
+	box-shadow: 0 0 6px rgba(0, 0.4, 0.4, 0.6);
+	background: #FFFFFF;
+  }
+
+#MP4_Box {
+    border: 2px black solid;
+    margin-left: 7%;
+    font-size: 18px;
+    text-align: left;
+    padding: 1em;
+	box-shadow: 0 0 6px rgba(0, 0.4, 0.4, 0.6);
+	background: #FFFFFF;
+  }
+
+#AVI_Box {
+    border: 2px black solid;
+    margin-left: 7%;
+    font-size: 18px;
+    text-align: left;
+    padding: 1em;
+	box-shadow: 0 0 6px rgba(0, 0.4, 0.4, 0.6);
+	background: #FFFFFF;
+  }
+
+#WMV_Box {
+    border: 2px black solid;
+    margin-left: 7%;
+    font-size: 18px;
+    text-align: left;
+    padding: 1em;
+	box-shadow: 0 0 6px rgba(0, 0.4, 0.4, 0.6);
+	background: #FFFFFF;
+  }
+
+#WEBM_Box {
+    border: 2px black solid;
+    margin-left: 7%;
+    font-size: 18px;
+    text-align: left;
+    padding: 1em;
+	box-shadow: 0 0 6px rgba(0, 0.4, 0.4, 0.5);
+	background: #FFFFFF;
+  }
+  
+h1 {
+    font-size: 36px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-size: 24px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+
+#NavBox {
+  background: #FFFFFF;
+  border: 2px black solid;
+  padding: 10px;
+  font-size: 24px;
+  border-radius: 10px;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 6px rgba(0, 0.4, 0.4, 0.6);
+}
+
+input[type="button"] {
+  background: #0044CC;
+  color: black;
+  font-size: 16px;
+  border-radius: 5px;
+  font-family: Georgia, 'Times News Roman', Times, serif;
+  font-weight: bold;
+}
+
+input[type="button"]:hover {
+  background: #00AAEE;
+}
+
+video {
+	height: "300"; 
+	width: "400";
+	position: relative;
+	background:#005555;
+	color:#AAAAAA;
+	border-radius: 10px;
+	border: 4px solid rgba(0,0,0,0.8);
+	box-shadow: 0 0 6px rgba(0,0.4,0.4,0.6);
+	margin: 50px auto 0;
+}
+
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+  }
+  
+footer {
+	border: 2px black solid;
+	padding: 10px;
+    font-size: 16px;
+	border-radius: 10px;
+    text-align: center;
+    font-family: Arial;
+	background: #FFFFFF;
+	box-shadow: 0 0 6px rgba(0, 0.4, 0.4, 0.6);
+  }
